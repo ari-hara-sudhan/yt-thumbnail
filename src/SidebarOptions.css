@@ -1,0 +1,12 @@
+.sidebaroptions{
+    display:flex;
+    align-items:center;
+    cursor:pointer;
+}
+.sidebaroptions:hover{
+    color:red;
+    background-color: lightgray;
+}
+.sidebaroptions__name{
+    margin-left:10px;
+}
