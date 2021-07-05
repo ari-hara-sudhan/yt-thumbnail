@@ -27,7 +27,7 @@ function Header() {
                 value={input}
                 onChange={e=>setInput(e.target.value)}
                 />
-                <Link  to="/input">
+                <Link className="header__link"  to="/input">
                 <SearchIcon fontSize="large" className="header__search"/>
                 </Link>
 

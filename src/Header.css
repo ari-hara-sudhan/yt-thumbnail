@@ -21,8 +21,12 @@
     outline:none;
 }
 .header__search{
-    padding:10px;
+   font-size:25px !important;
 
+}
+.header__link{
+    background:gray;
+    height:30px;
 }
 .header__left{
     display:flex;

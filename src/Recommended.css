@@ -8,3 +8,13 @@
     flex-wrap: wrap;
 
 }
+.recommended__form{
+    display:flex;
+    flex-direction: column;
+}
+.recommended__form>input{
+    border:none;
+    border-bottom:1px solid blue;
+    padding:10px;
+    outline:none;
+}
