@@ -1,0 +1,22 @@
+.video{
+    padding:10px;
+}
+.video__contanier{
+    display:flex;
+    align-items: center;
+   
+}
+.video__image{
+    width:290px;
+    height:160px;
+}
+.video__info{
+    padding:10px;
+    margin-top:10px;
+}
+.video__info>p{
+    color:gray;
+    font-weight:500;
+    font-size:13px;
+    margin-top:4px;
+}
