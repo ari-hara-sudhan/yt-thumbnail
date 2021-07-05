@@ -83,7 +83,7 @@ function Recommended() {
          onChange={e=>setImageUrl(e.target.value)}
          
          />
-        <Button type="submit" onClick={upload}>Submit</Button>
+        <Button disabled={!imageUrl}  type="submit" onClick={upload}>Submit</Button>
         </form>
         
           </div>
