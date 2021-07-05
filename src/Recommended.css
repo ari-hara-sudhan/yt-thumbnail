@@ -1,3 +1,10 @@
 .recommended{
-    padding:20px;
+    padding:10px;
+    flex:0.8;
+}
+.recommended__videos{
+    display:flex;
+    padding:10px;
+    flex-wrap: wrap;
+
 }

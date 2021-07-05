@@ -1,0 +1,16 @@
+.searchoptions{
+    display:flex;
+    align-items:Center;
+    padding:20px;
+}
+.searchoptions__image{
+    width:290px;
+    height:160px;
+}
+.searchoptions__info{
+    padding:10px;
+}
+.searchoptions__info>p{
+    color:gray;
+    flex:0.8;
+}

@@ -21,9 +21,8 @@
     outline:none;
 }
 .header__search{
-    padding:5px;
-    border:1px solid gray;
-    background-color: gray;
+    padding:10px;
+
 }
 .header__left{
     display:flex;
@@ -33,6 +32,9 @@
     height:70px;
     object-fit: contain;
     cursor:pointer;
+}
+a{
+    color:black;
 }
 .header__right{
     display:flex;
